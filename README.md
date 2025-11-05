@@ -1,6 +1,6 @@
 # Bird background removal pipeline
 
-This project provides a Python pipeline to download bird illustrations from the Macaulay Library, remove their backgrounds using AI, and save them as compressed PNG files with transparent backgrounds.
+This project provides a Python pipeline to download bird illustrations from Birds of the World (https://birdsoftheworld.org/bow/home), remove their backgrounds using a semantic segmentation model, and save them as compressed PNG files with transparent backgrounds.
 
 ## Setup
 
